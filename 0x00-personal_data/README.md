@@ -1,3 +1,3 @@
-# alx-backend-user-data
+# Personal data
 
 how to handle user data.
